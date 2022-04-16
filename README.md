@@ -61,6 +61,7 @@ time out (1000 rodadas);
 <li>
 </li>
 </ul>
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
