@@ -2,17 +2,6 @@
 ## Descrição
 <p align="left"> Projeto de desafio do Processo seletivo da Brasil Prev</p>
 
-Tabela de Conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tecnologias](#tecnologias)
-   * [Instalação](#instalacao)
-   * [Como usar](#usando)
-      * [Pre Requisitos](#pre-requisitos)
-
-<!--te-->
-
 ### 🛠 Sobre
 
 
