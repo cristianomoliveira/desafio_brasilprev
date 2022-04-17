@@ -69,7 +69,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Python](https://www.python.org/)
 - [VS-code](https://code.visualstudio.com/)
 
-### 🎲 Exececutando o Projeto
+### 🎲 Executando o Projeto
 
 ```bash
 # Clone este repositório
