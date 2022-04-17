@@ -68,3 +68,27 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Python](https://www.python.org/)
 - [VS-code](https://code.visualstudio.com/)
+
+### 🎲 Executando o Projeto
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/cristianomoliveira/desafio_brasilprev.git>
+
+# Crie o ambiente virtual e depois acesse-o:
+$ python -m venv venv
+$ source venv/bin/activate
+
+# Ativando caso seu sistema seja Windows:
+$  ./venv/Scripts/activate
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd desafio_brasilprev/
+
+# Instale as dependências
+$ pip install -r requirements.txt
+
+# Executando o projeto
+$ python main.py
+
+```
